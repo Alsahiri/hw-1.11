@@ -49,7 +49,7 @@ public class Main {
     public static void task2 () {
         System.out.println("Задача 2");
         int currentYear = 2017;
-        int currentOS = 1;
+        int currentOS = 0;
         System.out.println(checkYearPhone(currentYear, checkOS(currentOS)));
     }
 
